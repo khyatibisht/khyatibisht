@@ -6,6 +6,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
+- ⚡ Fun fact: 
 -->
 
 
@@ -13,5 +14,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Web Development, Design and UX 
 - 📫 How to reach me: [twitter](https://twitter.com/Khyati_Bisht)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Beyonce is my birthday twin! 🎂
 
