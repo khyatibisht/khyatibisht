@@ -8,9 +8,9 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working at [Dell Technologies](https://www.dell.com/en-in/dt/corporate/about-us/who-we-are.htm)
+- 🔭 I’m currently working @ [Dell Technologies](https://www.dell.com/en-in/dt/corporate/about-us/who-we-are.htm)
 - 💬 Ask me about **Web Development** 🕸, **Design** 🎨 and **UX** 👩🏻‍💻
-- 🌱 I’m currently learning about **A11y**.
+- 🌱 I’m currently learning about **A11y** and **React**.
 - 📫 How to reach me: [Twitter](https://twitter.com/Khyati_Bisht) or [LinkedIn](https://www.linkedin.com/in/khyatibisht/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love **quizzing**, **solving puzzles** and **soduko**! 🧩
