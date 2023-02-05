@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 ![Twitter Follow](https://img.shields.io/twitter/follow/Khyati_Bisht?style=social)
 [![Linkedin: khyatibisht](https://img.shields.io/badge/-khyatibisht-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khyatibisht/)](https://www.linkedin.com/in/khyatibisht/)
 [![GitHub khyatibisht](https://img.shields.io/github/followers/khyatibisht?label=follow&style=social)](https://github.com/khyatibisht)
+  
+Languages and Tools I work with: 
 
 ### Blogs:
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/khyatibisht)
