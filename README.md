@@ -8,6 +8,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Twitter](https://twitter.com/Khyati_Bisht) or [LinkedIn](https://www.linkedin.com/in/khyatibisht/)
 -->
 
+<p align="center">I'm a professional front-end developer based in New Delhi, India. Having started my software journey 4 years, I've a working experience of 2+ years in domains of product design, a11y and online e-commerce experimentation and insights. </p>
+
 
 - 🔭 I’m currently working @ [Dell Technologies](https://www.dell.com/en-in/dt/corporate/about-us/who-we-are.htm)
 - 💬 Ask me about **Web Development** 🕸, **Design** 🎨 and **UX** 👩🏻‍💻
@@ -43,6 +45,6 @@ Here are some ideas to get you started:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white)
 ![jQuery](https://custom-icon-badges.demolab.com/badge/jQuery-0769AD.svg?logo=jquery&logoColor=white)
 
-<!--//Languages/Tech stack well versed with:
+<!--
 //Github stats
 -->
